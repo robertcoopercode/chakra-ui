@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/robertcoopercode/chakra-ui/compare/@chakra-ui/docs@0.4.5...@chakra-ui/docs@0.5.0) (2020-01-25)
+
+### Features
+
+- change name of packages to use fork
+  ([aec2c16](https://github.com/robertcoopercode/chakra-ui/commit/aec2c168abd0765f1283a50e2c905a9b18a0ae48))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [0.4.5](https://github.com/robertcoopercode/chakra-ui/compare/@chakra-ui/docs@0.4.4...@chakra-ui/docs@0.4.5) (2020-01-25)
 
 ### Bug Fixes
