@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/core",
+  "name": "@robertcooper/chakra-ui-core",
   "version": "0.5.3",
   "description": "Responsive and accessible React UI components built with React and Emotion",
   "main": "dist/index.js",
