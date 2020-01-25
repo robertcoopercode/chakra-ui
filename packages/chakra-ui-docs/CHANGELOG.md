@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.5](https://github.com/robertcoopercode/chakra-ui/compare/@chakra-ui/docs@0.4.4...@chakra-ui/docs@0.4.5) (2020-01-25)
+
+### Bug Fixes
+
+- **modal:** multiple modal overlay styles
+  ([#1](https://github.com/robertcoopercode/chakra-ui/issues/1))
+  ([02a268a](https://github.com/robertcoopercode/chakra-ui/commit/02a268ac0fefc90c0ac56d1c69e4f9e44f9753c3))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [0.4.4](/compare/@chakra-ui/docs@0.4.3...@chakra-ui/docs@0.4.4) (2019-12-25)
 
 **Note:** Version bump only for package @chakra-ui/docs

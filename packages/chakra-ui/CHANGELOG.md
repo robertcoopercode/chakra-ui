@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.3](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.5.2...@chakra-ui/core@0.5.3) (2020-01-25)
+
+### Bug Fixes
+
+- **image:** add `isMounted` check on `Image` component
+  ([105c84f](https://github.com/chakra-ui/chakra-ui/commit/105c84fb34357fb3f35eb6cd8583fdc18fa774af))
+- fix more bugs
+  ([1e842de](https://github.com/chakra-ui/chakra-ui/commit/1e842de357f115f154fc45c4d670747100417ad4))
+- fix: Right addon disappears under background color on focus
+  ([d7de7d5](https://github.com/chakra-ui/chakra-ui/commit/d7de7d5f4e85ba4baba0050ad3abfa47f2cacabc)),
+  closes [#300](https://github.com/chakra-ui/chakra-ui/issues/300)
+- ignore Tab key press for keyboard navigation
+  ([5966cc6](https://github.com/chakra-ui/chakra-ui/commit/5966cc6737ddcdf84e12dfa5025825cc88d91dbf))
+- using fractions and decimals for responsive width
+  ([7257654](https://github.com/chakra-ui/chakra-ui/commit/725765481d4637825ef6548cf5cb235ea2832546)),
+  closes [#304](https://github.com/chakra-ui/chakra-ui/issues/304)
+- **modal:** multiple modal overlay styles
+  ([#1](https://github.com/chakra-ui/chakra-ui/issues/1))
+  ([02a268a](https://github.com/chakra-ui/chakra-ui/commit/02a268ac0fefc90c0ac56d1c69e4f9e44f9753c3))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [0.5.2](https://github.com/chakra-ui/chakra-ui/compare/@chakra-ui/core@0.5.1...@chakra-ui/core@0.5.2) (2019-12-25)
 
 ### Bug Fixes
